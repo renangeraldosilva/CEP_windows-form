@@ -1,0 +1,11 @@
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\bin\Debug\Aula41-Cep.exe.config
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\bin\Debug\Aula41-Cep.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\bin\Debug\Aula41-Cep.pdb
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.csproj.AssemblyReference.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.csproj.SuggestedBindingRedirects.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41_Cep.Form1.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41_Cep.Properties.Resources.resources
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.csproj.GenerateResource.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.csproj.CoreCompileInputs.cache
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.exe
+C:\Users\renan\OneDrive\Área de Trabalho\C#Intermediario\Aula41-Cep\obj\Debug\Aula41-Cep.pdb
